@@ -1,0 +1,71 @@
+.nav-img {
+    background-color:#2e3939;
+    width:auto;
+    height:50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    position: relative;
+}
+.container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+    height: auto;
+  }
+  .topnav {
+      overflow: hidden;
+    
+  }
+  .topnav a {
+    float: center, left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .heroimage {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/paul-steuber-EAmDBjA24FE-unsplash.jpg");
+      width: auto;
+      height: 100vh;
+      overflow: hidden;
+      background-size: 100% 50%;
+      background-repeat: no-repeat;
+      position: relative;
+  }
+  .herotext {
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #f2f2f2;
+  }
+  .Mywork {
+    background-color:#2e3939;
+    width:auto;
+    height:50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    position: relative;
+  }
+  .Mywork h1 {
+    float: center;  
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    position: relative;
+ }
+ .Mywork h2 {
+    background-color:#2e3939;
+    width:auto;
+    height:25px;
+    background-size: 100px;
+    position: relative;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    position: relative;
+ }
